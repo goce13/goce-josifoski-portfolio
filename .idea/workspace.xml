@@ -8,6 +8,7 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/favicon.svg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/logo/logo_goce.svg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/profile.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/projects/truvi_home.png" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/assets/styles/main.less" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/assets/styles/mixins/_elements.less" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/assets/styles/mixins/_helperCLasses.less" afterPath="" />
@@ -23,11 +24,11 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/glyphicons-halflings-regular.f4769f9bdb7466be6508.eot" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/glyphicons-halflings-regular.fa2772327f55d8198301.woff" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main.6f93aa998395d10a97e5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main.7aef8c011f395b752e5f.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/polyfills.8bbb231b43165d65d357.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/profile.c754d9aa0b03c712f6d0.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/runtime.26209474bfa8dc87a77c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styles.fb3d06f043ca8d6a3e12.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styles.03069337ceeffd2d73e4.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -124,6 +125,9 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -151,12 +155,12 @@
       <option name="presentableId" value="Default" />
       <updated>1567695051987</updated>
       <workItem from="1567695053157" duration="1839000" />
-      <workItem from="1567712755417" duration="21000" />
+      <workItem from="1567712755417" duration="672000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1860000" />
+    <option name="totallyTimeSpent" value="2511000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="822" extended-state="0" />

@@ -192,6 +192,9 @@ body {
       min-height: 100vh;
       &.cv_page {
         background: #53565a;
+        @media (max-width: 601px) {
+          padding-bottom: 100px;
+        }
       }
     }
     .home_page {
@@ -495,11 +498,16 @@ body {
       bottom: 10px;
       z-index: 99999999;
       right: 10px;
+      @media (max-width: 601px) {
+        bottom: 90px;
+      }
       button {
         background: transparent;
         border: 1px solid @color-accent;
         width: 50px;
+        min-width: 50px;
         height: 50px;
+        min-height: 50px;
         display: flex;
         justify-content: center;
         align-items: center;

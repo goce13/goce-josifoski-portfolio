@@ -352,7 +352,7 @@ body {
   padding: 80px 80px 60px;
   background-color: #fff;
   box-shadow: 2px 2px 1px #606060;
-  position: fixed;
+  position: absolute;
   left: 0;
   z-index: 9999;
   right: 0;
@@ -494,12 +494,27 @@ body {
       }
     }
     .btn_back {
-      position: absolute;
-      bottom: 10px;
+      position: fixed;
       z-index: 99999999;
-      right: 10px;
+      right: 0;
+      left: 0;
+      bottom: 30px;
+      width: 100%;
+      max-width: 920px;
+      padding: 20px;
+      margin: 80px auto;
+      display: flex;
+      align-items: flex-end;
+      justify-content: flex-end;
+
       @media (max-width: 601px) {
-        bottom: 90px;
+        margin: 0;
+        background: #009faa;
+        bottom: 0;
+        button {
+          background: white !important;
+          width: 100% !important;
+        }
       }
       button {
         background: transparent;
@@ -744,7 +759,7 @@ body {
     .overlay_content {
       opacity: 0;
       visibility: hidden;
-      position: absolute;
+      position: fixed;
       transform: translateX(0);
       left: 0;
       right: 0;
@@ -778,7 +793,7 @@ body {
 @media (max-width: 601px) {
   .cv_page {
     .pdf_wrapper {
-      padding: 20px;
+      padding: 20px 20px 100px 20px;
       margin: 0;
       .cv_header {
         flex-direction: column;

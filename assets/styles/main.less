@@ -111,33 +111,29 @@ body {
             position: relative;
             margin-bottom: 3px;
             outline: none;
-            &:hover {
-              a {
-                &:after {
-                  content: " \f105 ";
-                  padding-left: 3px;
-                  font-family: FontAwesome;
-                }
-              }
-            }
             a {
               color: @white-color;
               text-transform: uppercase;
               text-decoration: none;
+              display: block;
+            }
+            @media (min-width: 1025px) {
+              &:hover {
+                a {
+                  &:after {
+                    content: " \f105 ";
+                    padding-left: 3px;
+                    font-family: FontAwesome;
+                  }
+                }
+              }
             }
           }
         }
-        .current {
-          a {
-            opacity: 1;
-            &:after {
-              content: " \f105 ";
-              padding-left: 3px;
-              font-family: FontAwesome;
-            }
-          }
+        a.current {
+          opacity: 1;
           &:after{
-            content: " ";
+            content: " " !important;
             display: block;
             position: absolute;
             width: 0;
@@ -515,9 +511,16 @@ body {
         margin: 0;
         background: #009faa;
         bottom: 0;
+        max-height: 90px;
         button {
           background: white !important;
           width: 100% !important;
+          &:before {
+            content: none;
+          }
+        }
+        &:before {
+          content: none !important;
         }
       }
       button {
@@ -672,6 +675,36 @@ body {
       color: @white-color !important;
     }
   }
+  @media (max-width: 767px) {
+    padding: 20px;
+    .contact_form_picture {
+      position: relative;
+      min-width: 100%;
+      left: 0;
+      transform: scale(1);
+      padding: 30px;
+      margin-bottom: 10px;
+      width: 100%;
+      ul {
+        display: flex;
+        li {
+          margin: 5px;
+          a {
+            margin-bottom: 0;
+          }
+          &:first-of-type {
+            margin-left: 0;
+          }
+          &:last-of-type {
+            margin-right: 0;
+          }
+        }
+      }
+    }
+    button {
+      width: 100%;
+    }
+  }
 }
 
 .page_contactme {
@@ -681,6 +714,9 @@ body {
     align-content: center;
     align-items: center;
     margin-top: 100px;
+    @media (max-width: 767px) {
+      margin-top: 50px;
+    }
   }
 }
 

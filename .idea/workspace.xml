@@ -4,11 +4,13 @@
     <list default="true" id="2b62968e-deb2-49fe-a5ce-d8bb72fefe88" name="Default" comment="">
       <change type="DELETED" beforePath="$PROJECT_DIR$/3rdpartylicenses.txt" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/background.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/construction-page.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/contact_form_picture.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/favicon.svg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/logo/logo_goce.svg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/profile.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/projects/truvi_home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/images/under_construct.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/assets/styles/main.less" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/assets/styles/mixins/_elements.less" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/assets/styles/mixins/_helperCLasses.less" afterPath="" />
@@ -24,11 +26,11 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/glyphicons-halflings-regular.f4769f9bdb7466be6508.eot" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/glyphicons-halflings-regular.fa2772327f55d8198301.woff" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/main.314aee9deb82ede09791.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/main.4353dbc9135d00c31131.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/polyfills.8bbb231b43165d65d357.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/profile.c754d9aa0b03c712f6d0.jpg" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/runtime.26209474bfa8dc87a77c.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/styles.3960d97e5bc06c93e615.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/styles.12cb1f2994676b27534f.css" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -156,22 +158,22 @@
       <updated>1567695051987</updated>
       <workItem from="1567695053157" duration="1839000" />
       <workItem from="1567712755417" duration="837000" />
-      <workItem from="1567752264939" duration="1273000" />
+      <workItem from="1567752264939" duration="1897000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3949000" />
+    <option name="totallyTimeSpent" value="4573000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="822" extended-state="0" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34390417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34390417" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
